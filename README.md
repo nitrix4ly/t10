@@ -1,7 +1,7 @@
 # t10 - Discord Bot Process Manager
 
 > **Discord bot management system for production VPS environments**  
-> Built by **nitrix4ly** - Professional alternative to PM2 optimized for Discord bot deployment
+> Professional alternative to PM2 optimized for Discord bot deployment
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Docker](https://img.shields.io/badge/docker-required-blue.svg)](https://www.docker.com/)
@@ -617,4 +617,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Developed by nitrix4ly** - Professional Discord bot management made simple and reliable.
+**Developed by Nitrix** - Professional Discord bot management made simple and reliable.

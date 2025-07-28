@@ -16,7 +16,7 @@ NC='\033[0m' # No Color
 # Configuration
 T10_DIR="/opt/t10"
 T10_USER="t10"
-PYTHON_VERSION="3.12"
+PYTHON_VERSION="3.11"
 VENV_DIR="$T10_DIR/venv"
 SERVICE_FILE="/etc/systemd/system/t10.service"
 

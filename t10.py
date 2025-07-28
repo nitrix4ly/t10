@@ -13,10 +13,10 @@ def main():
     try:
         cli()
     except KeyboardInterrupt:
-        print("\nâš¡ t10 interrupted by user")
+        print("\n⚡ t10 interrupted by user")
         sys.exit(0)
     except Exception as e:
-        print(f"âŒ Fatal error: {e}")
+        print(f"❌ Fatal error: {e}")
         sys.exit(1)
 
 if __name__ == "__main__":
